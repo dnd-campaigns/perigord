@@ -1,0 +1,1 @@
+Dwarf from the Stonefoot clan that came to be at the Keep. Is a shepard for the goats. Lost some toes in the cold / berries / red.

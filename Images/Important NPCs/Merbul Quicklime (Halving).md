@@ -1,0 +1,1 @@
+Halving for setting up trading post from Limerest in Keep 
