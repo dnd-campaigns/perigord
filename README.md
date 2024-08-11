@@ -1,7 +1,7 @@
-# DnD-Campaign
+# Perigord
 Repository for storing any associated notes in markdown or other formats for easier viewing & sharing. <br>
 
-Contains only notes for the current homebrew 3.5e active campaign and related images for NPCs, items, maps,
+Contains only notes for the current homebrew 3.5e active campaign `Perigord` and related images for NPCs, items, maps,
 monsters, and places for reference.
 
 --------------------------
@@ -22,3 +22,4 @@ Quick references to the world map for the active campaign.
 ![](Images/Maps/Overworld_Map_1.png) <br>
 
 ------------------------
+
