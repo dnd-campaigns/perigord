@@ -19,10 +19,18 @@ monsters, and places for reference.
 - Contents of the Bag of holding are logged here. 
 - Locations of removed items from the bag of holding are indicated here as well.
 - Pignut Status as well.
-- **Last updated:** 18-AUG-24
+- **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
+-------------------------
+## [Keep Status](DnD%20Notebook/keep-status.md)
+- Contains list of location sites at the Keep
+- Treasury Information
+- Map of Keep
+- Key Keep Details
+- Log of Requests
+- **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
 -------------------------
 
-## World Maps
+## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
 in the [maps](Images/Maps/) directory.
 
