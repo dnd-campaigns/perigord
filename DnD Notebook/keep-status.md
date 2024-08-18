@@ -1,5 +1,7 @@
 # Keep Status
 
+**Last Updated:** 18-AUG-24
+
 ## Map Information
 ![](../Images/Maps/keep-map-location.png)
 ### Layout
@@ -44,7 +46,7 @@
 ##### Income
 - Ship 500g (3 months)
 - Post 500g (3 months)
-- 
+
 ### School
 - Made to help with the language differences between the humans and the dwarves.
 - Is next to the Dwarf Brothel
@@ -57,17 +59,19 @@
 
 ### Farm Lands
 #### Goat Status
-- Female: 
-- Male: 
-- Pregnant (7)
-- Stonefeet (Galus Berrytoe) is the shepard
-- Helped Find the Mining Site
+Stonefeet (Galus Berrytoe) is the shepard.<br> Goats had helped find the Mining Site location (salts were there).
+- **Female:** 7 
+  - All (7) are pregnant
+- **Male:** 4
+- **Baby Female:** 0 _(Grew Up)_
+- **Baby Male:** 0 _(Grew Up)_
+
 
 ##### Income
 - 22g 97s (3 months)
 
 ### Mining Site
-- Galus Berryto
+- Galus Berrytoe found this 
 
 
 -----------------------------------------
@@ -94,3 +98,9 @@
 ## Request Log
 - 100g for making the celebration bigger for [18-AUG-24](Session%20Notes/)
   - Accepted / Helra re-fills treasury back 100g
+
+
+-----------------------------------------
+
+## Expansion Ideas
+- Draw bridge for the mining site.
