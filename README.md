@@ -12,7 +12,9 @@ monsters, and places for reference.
 - [16-JUN-24](DnD%20Notebook/Session%20Notes/16-JUN-24.md) <br>
 - [07-JUL-24](DnD%20Notebook/Session%20Notes/07-JUL-24.md) <br>
 - [11-AUG-24](DnD%20Notebook/Session%20Notes/11-AUG-24.md) <br>
-- **Last Update:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
+- [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
+- [01-SEP-24](DnD%20Notebook/Session%20Notes/01-SEP-24.md) <br>
+- **Last Update:** [08-SEP-24](DnD%20Notebook/Session%20Notes/08-SEP-24.md) <br>
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
