@@ -15,7 +15,8 @@ monsters, and places for reference.
 - [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
 - [01-SEP-24](DnD%20Notebook/Session%20Notes/01-SEP-24.md) <br>
 - [08-SEP-24](DnD%20Notebook/Session%20Notes/08-SEP-24.md) <br>
-- **Last Update:** [06-OCT-24](DnD%20Notebook/Session%20Notes/06-OCT-24.md) <br>
+- [06-OCT-24](DnD%20Notebook/Session%20Notes/06-OCT-24.md) <br>
+- **Last Update:** [20-OCT-24](DnD%20Notebook/Session%20Notes/20-OCT-24.md) <br>
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
@@ -32,6 +33,12 @@ monsters, and places for reference.
 - Log of Requests
 - **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
 -------------------------
+
+## [Airship Status](DnD Notebook/airship-staus.md)
+- Contains a list of items that are of note on the ship
+- Current health status of the airship
+- Current important personnel listing
+- **Last updated:** [20-OCT-24](DnD%20Notebook/Session%20Notes/20-OCT-24.md)
 
 ## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
