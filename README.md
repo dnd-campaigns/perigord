@@ -16,14 +16,15 @@ monsters, and places for reference.
 - [01-SEP-24](DnD%20Notebook/Session%20Notes/01-SEP-24.md) <br>
 - [08-SEP-24](DnD%20Notebook/Session%20Notes/08-SEP-24.md) <br>
 - [06-OCT-24](DnD%20Notebook/Session%20Notes/06-OCT-24.md) <br>
-- **Last Update:** [20-OCT-24](DnD%20Notebook/Session%20Notes/20-OCT-24.md) <br>
+- [20-OCT-24](DnD%20Notebook/Session%20Notes/20-OCT-24.md) <br>
+- **Last Update:** [27-OCT-24](DnD%20Notebook/Session%20Notes/27-OCT-24.md) <br>
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
 - Contents of the Bag of holding are logged here. 
 - Locations of removed items from the bag of holding are indicated here as well.
 - Pignut Status as well.
-- **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
+- **Last updated:** [27-OCT-24](DnD%20Notebook/Session%20Notes/27-OCT-24.md) <br>
 -------------------------
 ## [Keep Status](DnD%20Notebook/keep-status.md)
 - Contains list of location sites at the Keep
