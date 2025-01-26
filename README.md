@@ -19,7 +19,10 @@ monsters, and places for reference.
 - [20-OCT-24](DnD%20Notebook/Session%20Notes/20-OCT-24.md) <br>
 - [27-OCT-24](DnD%20Notebook/Session%20Notes/27-OCT-24.md) <br>
 - [10-NOV-24](DnD%20Notebook/Session%20Notes/10-NOV-24.md) <br>
-- **LAST SESSION:**[17-NOV-24](DnD%20Notebook/Session%20Notes/17-NOV-24.md)<br>
+- [17-NOV-24](DnD%20Notebook/Session%20Notes/17-NOV-24.md)<br>
+- **LAST SESSION:**[26-JAN-25](DnD%20Notebook/Session%20Notes/26-JAN-25.md)<br>
+
+Note: Next Session is 16-Feb-25
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
