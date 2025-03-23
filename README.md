@@ -20,16 +20,17 @@ monsters, and places for reference.
 - [27-OCT-24](DnD%20Notebook/Session%20Notes/27-OCT-24.md) <br>
 - [10-NOV-24](DnD%20Notebook/Session%20Notes/10-NOV-24.md) <br>
 - [17-NOV-24](DnD%20Notebook/Session%20Notes/17-NOV-24.md)<br>
-- **LAST SESSION:**[26-JAN-25](DnD%20Notebook/Session%20Notes/26-JAN-25.md)<br>
+- [26-JAN-25](DnD%20Notebook/Session%20Notes/26-JAN-25.md)<br>
+- **LAST SESSION:**[23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md)<br>
 
-Note: Next Session is 16-Feb-25
+Note: Next Session is 06-APR-25
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
 - Contents of the Bag of holding are logged here. 
 - Locations of removed items from the bag of holding are indicated here as well.
 - Pignut Status as well.
-- **Last updated:** [27-OCT-24](DnD%20Notebook/Session%20Notes/27-OCT-24.md) <br>
+- **Last updated:** [23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md) <br>
 -------------------------
 ## [Keep Status](DnD%20Notebook/keep-status.md)
 - Contains list of location sites at the Keep
@@ -44,7 +45,7 @@ Note: Next Session is 16-Feb-25
 - Contains a list of items that are of note on the ship
 - Current health status of the airship
 - Current important personnel listing
-- **Last updated:** [10-NOV-24](DnD%20Notebook/Session%20Notes/10-NOV-24.md)
+- **Last updated:** [23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md)
 
 ## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
