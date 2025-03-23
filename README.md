@@ -41,7 +41,7 @@ Note: Next Session is 06-APR-25
 - **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
 -------------------------
 
-## [Airship Status](DnD Notebook/airship-staus.md)
+## [Airship Status](DnD Notebook/airship-status.md)
 - Contains a list of items that are of note on the ship
 - Current health status of the airship
 - Current important personnel listing
