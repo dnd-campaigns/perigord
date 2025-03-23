@@ -26,6 +26,7 @@
 
 | Item Name                                                                                | Quantity                                                      | Owner     | Notes                                                                                                                                                                                                                                                                                                                               | Pocket           |
 |------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| Ring of Jump +5                                                                          | (x1)                                                          | Taurus    | Plus + 5 to Jump / (Taurus is out of fingers slots)                                                                                                          | Left             |
 | 50ft Rope                                                                                | (x0)                                                          | Party     | Used in Fabrication to be one piece / not in the bag of holding presently.                                                                                                                                                                                                                                                                                                                         | Left             |
 | Grappling Hook                                                                           | (x1)                                                          | Party     | Normal Grappling Hook                                                                                                                                                                                                                                                                                                               | Left             |
 | Shovel                                                                                   | (x1)                                                          | Party     | Normal Shovel                                                                                                                                                                                                                                                                                                                       | Left             |
@@ -53,5 +54,10 @@
 | Elven Harp from Xyrrorus                                                                 | (x1)                                                          | Lethe     | Masterwork Harp (Anstruth Harp)<br>+2 Bonus to performance checks using stringed instruments<br>MUST have 12 ranks in performance to use or you lose 1 level when holding it<br>Healing Circle instead of Mass Cure Light; Control water; and Mind Fog<br>Once a day for each spell / Like spell songs                              | Lethe<br>**Removed** |
 
 ### Last Updated: 
-**27-OCT-24**
+**23-OCT-24**
 - Removed (50ft x3 of Rope) from being actively in bag of holding. Used in Fabrication spell to  be one solid piece.
+
+**23-MAR-25**
+- Freed Pignut
+- Added Ring of Jump (+5) to the bag / left side from Taurus
+- Jailed Pignut
