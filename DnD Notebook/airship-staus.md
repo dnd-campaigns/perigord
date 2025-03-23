@@ -5,7 +5,7 @@
 ## Personnel Listing
 - Marcus (Chief)
 - Hagen (Sailer)
-  - Picked up from a ship wreck that was attacked by a dragon [notes](Session Notes/20-OCT-24.md)
+  - Picked up from a ship wreck that was attacked by a dragon [notes](Session%20Notes/20-OCT-24.md)
 - Tingle and Pingle (Knomes)
 - Pignut out of the bag of holding / on the ship right now
 - Part of army on ship (mixature)
