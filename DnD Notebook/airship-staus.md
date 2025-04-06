@@ -11,10 +11,15 @@
 - Part of army on ship (mixature)
   - Villagers that wanted to come along and some actual men
 
+## Capacity 
+- Can hold 150 people in general for forces
+- 100 drawves
+- 50 humans
+
 ## Items
 
 - Wagon filled with Hay 
   - From the drunk crusades [notes](Session%20Notes/06-OCT-24.md)
 
 
-**Last Updated:** 10-NOV-24 
+**Last Updated:** 06-APR-25 
