@@ -46,7 +46,7 @@ Note: Next Session is 06-APR-25
 - Contains a list of items that are of note on the ship
 - Current health status of the airship
 - Current important personnel listing
-- **Last updated:** [23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md)
+- **Last updated:** [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)
 
 ## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
