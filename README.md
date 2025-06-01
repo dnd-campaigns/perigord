@@ -23,7 +23,8 @@ monsters, and places for reference.
 - [26-JAN-25](DnD%20Notebook/Session%20Notes/26-JAN-25.md)<br>
 - [23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md)<br>
 - [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)<br>
-- **LAST SESSION:** [25-MAY-25](DnD%20Notebook/Session%20Notes/25-MAY-25.md)<br>
+- [25-MAY-25](DnD%20Notebook/Session%20Notes/25-MAY-25.md)<br>
+- [01-JUN-25](DnD%20Notebook/Session%20Notes/01-JUN-25.md)<br>
 
 Note: Next Session is: 
 
@@ -40,7 +41,8 @@ Note: Next Session is:
 - Map of Keep
 - Key Keep Details
 - Log of Requests
-- **Last updated:** [18-AUG-24](DnD%20Notebook/Session%20Notes/18-AUG-24.md) <br>
+- Population Headcount
+- **Last updated:** [01-JUN-25] <br>
 -------------------------
 
 ## [Airship Status](DnD Notebook/airship-status.md)
