@@ -89,6 +89,11 @@ Stonefeet (Galus Berrytoe) is the shepard.<br> Goats had helped find the Mining 
 - Humans & Dwarfs Mainly
 - Water Rats
 - Niria (Birdfolk)
+- 1000 Dwarves in total (legion)
+  - 900 currently
+- 1500 Humans Infantry
+- 500 archers
+- 1000 Peasant w/Pitchforks
 
 ![](../Images/Important%20NPCs/Niria%20(Bird%20Folk).md)
 
