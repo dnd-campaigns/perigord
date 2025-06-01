@@ -22,9 +22,10 @@ monsters, and places for reference.
 - [17-NOV-24](DnD%20Notebook/Session%20Notes/17-NOV-24.md)<br>
 - [26-JAN-25](DnD%20Notebook/Session%20Notes/26-JAN-25.md)<br>
 - [23-MAR-25](DnD%20Notebook/Session%20Notes/23-MAR-25.md)<br>
-- **LAST SESSION:**[06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)<br>
+- [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)<br>
+- **LAST SESSION:** [25-MAY-25](DnD%20Notebook/Session%20Notes/25-MAY-25.md)<br>
 
-Note: Next Session is 06-APR-25
+Note: Next Session is: 
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
@@ -61,3 +62,9 @@ in the [maps](Images/Maps/) directory.
 ## [Images](Images/)
 The [images](Images/) directory contains a working upload listing of pictures for Companions, Important NPC's, Items,
 Maps, Monsters, and Places.
+
+
+### Inventory Slots
+_Reference image for inventory slots for characters._
+
+![](Images/Guides/inventory-slots.png)
