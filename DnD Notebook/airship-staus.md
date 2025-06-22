@@ -6,7 +6,10 @@
 - Marcus (Chief)
 - Hagen (Sailer)
   - Picked up from a ship wreck that was attacked by a dragon [notes](Session%20Notes/20-OCT-24.md)
-- Tingle and Pingle (Knomes)
+- ~Tingle and Pingle (Knomes)~
+  - Have been deposit in Mechanicus 
+  - No longer on board
+  - Per 22-JUN-25
 - Pignut out of the bag of holding / on the ship right now
 - Part of army on ship (mixature)
   - Villagers that wanted to come along and some actual men
@@ -22,4 +25,4 @@
   - From the drunk crusades [notes](Session%20Notes/06-OCT-24.md)
 
 
-**Last Updated:** 06-APR-25 
+**Last Updated:** 22-JUN-25 
