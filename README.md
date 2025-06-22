@@ -25,8 +25,9 @@ monsters, and places for reference.
 - [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)<br>
 - [25-MAY-25](DnD%20Notebook/Session%20Notes/25-MAY-25.md)<br>
 - [01-JUN-25](DnD%20Notebook/Session%20Notes/01-JUN-25.md)<br>
+- [22-JUN-25](DnD%20Notebook/Session%20Notes/22-JUN-25.md)<br>
 
-Note: Next Session is: 
+Note: Next Session is: 06-JUL-25
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
@@ -49,7 +50,7 @@ Note: Next Session is:
 - Contains a list of items that are of note on the ship
 - Current health status of the airship
 - Current important personnel listing
-- **Last updated:** [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)
+- **Last updated:** [22-JUN-25](DnD%20Notebook/Session%20Notes/22-JUN-25.md)
 
 ## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
