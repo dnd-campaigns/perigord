@@ -25,11 +25,12 @@ monsters, and places for reference.
 - [06-APR-25](DnD%20Notebook/Session%20Notes/06-APR-25.md)<br>
 - [25-MAY-25](DnD%20Notebook/Session%20Notes/25-MAY-25.md)<br>
 - [01-JUN-25](DnD%20Notebook/Session%20Notes/01-JUN-25.md)<br>
+- [22-JUN-25](DnD%20Notebook/Session%20Notes/22-JUN-25.md)<br>
 - [13-JUL-25](DnD%20Notebook/Session%20Notes/13-JUL-25.md)<br>
-- [03-AUG-25](DnD%20Notebook/Session%20Notes/03-AUG-25.md)<br>
 
 > [ !Note ] 
 > Next Session is: 10-AUG-25
+
 
 -------------------------
 ## [Bag of Holding](DnD%20Notebook/bag-of-holding-log.md)
