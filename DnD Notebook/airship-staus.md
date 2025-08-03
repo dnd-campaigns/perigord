@@ -4,6 +4,7 @@
 
 ## Personnel Listing
 - Marcus (Chief)
+- Anathmus (Engineer)
 - Hagen (Sailer)
   - Picked up from a ship wreck that was attacked by a dragon [notes](Session%20Notes/20-OCT-24.md)
 - ~Tingle and Pingle (Knomes)~
@@ -24,5 +25,17 @@
 - Wagon filled with Hay 
   - From the drunk crusades [notes](Session%20Notes/06-OCT-24.md)
 
+## Health
+- 1 shot from a Lightning strike 
+- Trees issues 
 
-**Last Updated:** 22-JUN-25 
+
+## Weapons
+- Heavy Weapon Canon
+  - 8d10 for grap shot
+    - 3x3 area (9 squares)
+  - 3 different types of shots available (standard, grap, chain)
+    - 10 of each shot
+
+
+**Last Updated:** 03-AUG-25 
