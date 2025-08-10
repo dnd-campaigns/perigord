@@ -31,7 +31,7 @@ monsters, and places for reference.
 - [10-AUG-25](DnD%20Notebook/Session%20Notes/10-AUG-25.md)<br>
 
 > [ !Note ] 
-> Next Session is: 
+> Next Session is: August 31st
 
 
 -------------------------
