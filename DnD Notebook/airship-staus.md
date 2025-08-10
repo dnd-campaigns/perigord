@@ -27,7 +27,7 @@
 
 ## Health
 - 1 shot from a Lightning strike 
-- Trees issues 
+- Trees issues on landing in the jungle 
 
 
 ## Weapons
