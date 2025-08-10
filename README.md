@@ -27,9 +27,11 @@ monsters, and places for reference.
 - [01-JUN-25](DnD%20Notebook/Session%20Notes/01-JUN-25.md)<br>
 - [22-JUN-25](DnD%20Notebook/Session%20Notes/22-JUN-25.md)<br>
 - [13-JUL-25](DnD%20Notebook/Session%20Notes/13-JUL-25.md)<br>
+- [03-AUG-25](DnD%20Notebook/Session%20Notes/03-AUG-25.md)<br>
+- [10-AUG-25](DnD%20Notebook/Session%20Notes/10-AUG-25.md)<br>
 
 > [ !Note ] 
-> Next Session is: 10-AUG-25
+> Next Session is: 
 
 
 -------------------------
@@ -53,7 +55,7 @@ monsters, and places for reference.
 - Contains a list of items that are of note on the ship
 - Current health status of the airship
 - Current important personnel listing
-- **Last updated:** [22-JUN-25](DnD%20Notebook/Session%20Notes/22-JUN-25.md)
+- **Last updated:** [03-AUG-25](DnD%20Notebook/Session%20Notes/03-AUG-25.md)
 
 ## [World Maps](Images/Maps/)
 Quick references to the world map for the active campaign are copied below.<br> Any other maps can be found under [images](Images/) 
