@@ -29,9 +29,10 @@ monsters, and places for reference.
 - [13-JUL-25](DnD%20Notebook/Session%20Notes/13-JUL-25.md)<br>
 - [03-AUG-25](DnD%20Notebook/Session%20Notes/03-AUG-25.md)<br>
 - [10-AUG-25](DnD%20Notebook/Session%20Notes/10-AUG-25.md)<br>
+- [31-AUG-25](DnD%20Notebook/Session%20Notes/31-AUG-25.md)<br>
 
 > [!Note] 
-> Next Session is: August 31st
+> Next Session is: September 7th
 
 
 -------------------------
