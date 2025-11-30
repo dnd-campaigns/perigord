@@ -33,9 +33,10 @@ monsters, and places for reference.
 - [07-SEP-25](DnD%20Notebook/Session%20Notes/07-SEP-25.md)<br>
 - [14-SEP-25](DnD%20Notebook/Session%20Notes/14-SEP-25.md)<br>
 - [28-SEP-25](DnD%20Notebook/Session%20Notes/28-SEP-25.md)<br>
+- [30-NOV-25](DnD%20Notebook/Session%20Notes/30-NOV-25.md)<br>
 
 > [!Note] 
-> Next Session is: October 5th
+> Next Session is: December 14th. 2025
 
 
 -------------------------
